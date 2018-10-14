@@ -13,5 +13,6 @@ public class Main {
     @Test
     public void testSecond(){
         System.out.println("testSecond");
+        System.out.println("sev1");
     }
 }
